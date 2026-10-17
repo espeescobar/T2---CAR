@@ -1,0 +1,44 @@
+# ./serial N n en MacBookM2. Item (a): N=2048, una linea por repeticion
+N=2048 n=2048 tiempo=2660.81 ms checksum=172.331627
+N=2048 n=2048 tiempo=2440.11 ms checksum=172.331627
+N=2048 n=2048 tiempo=2463.54 ms checksum=172.331627
+N=2048 n=2048 tiempo=1633.76 ms checksum=172.331627
+N=2048 n=2048 tiempo=1487.17 ms checksum=172.331627
+N=2048 n=1024 tiempo=2858.59 ms checksum=172.331627
+N=2048 n=1024 tiempo=2866.02 ms checksum=172.331627
+N=2048 n=1024 tiempo=2944.80 ms checksum=172.331627
+N=2048 n=1024 tiempo=2147.87 ms checksum=172.331627
+N=2048 n=1024 tiempo=2132.46 ms checksum=172.331627
+N=2048 n=512 tiempo=2815.02 ms checksum=172.331627
+N=2048 n=512 tiempo=2818.00 ms checksum=172.331627
+N=2048 n=512 tiempo=2833.20 ms checksum=172.331627
+N=2048 n=512 tiempo=1666.94 ms checksum=172.331627
+N=2048 n=512 tiempo=1669.07 ms checksum=172.331627
+N=2048 n=256 tiempo=2951.18 ms checksum=172.331627
+N=2048 n=256 tiempo=2942.01 ms checksum=172.331627
+N=2048 n=256 tiempo=2984.02 ms checksum=172.331627
+N=2048 n=256 tiempo=1754.46 ms checksum=172.331627
+N=2048 n=256 tiempo=1760.01 ms checksum=172.331627
+N=2048 n=128 tiempo=3126.59 ms checksum=172.331627
+N=2048 n=128 tiempo=3126.43 ms checksum=172.331627
+N=2048 n=128 tiempo=3164.11 ms checksum=172.331627
+N=2048 n=128 tiempo=1855.56 ms checksum=172.331627
+N=2048 n=128 tiempo=1850.40 ms checksum=172.331627
+N=2048 n=64 tiempo=2859.80 ms checksum=172.331627
+N=2048 n=64 tiempo=3412.56 ms checksum=172.331627
+N=2048 n=64 tiempo=2874.75 ms checksum=172.331627
+N=2048 n=64 tiempo=1683.77 ms checksum=172.331627
+N=2048 n=64 tiempo=1682.47 ms checksum=172.331627
+N=2048 n=32 tiempo=3651.56 ms checksum=172.331627
+N=2048 n=32 tiempo=3720.91 ms checksum=172.331627
+N=2048 n=32 tiempo=3682.21 ms checksum=172.331627
+N=2048 n=32 tiempo=2151.36 ms checksum=172.331627
+N=2048 n=32 tiempo=2149.03 ms checksum=172.331627
+
+# Referencias de correr.py (n = N y n = 128)
+N=1024 n=1024 tiempo=315.64 ms checksum=52.223927
+N=1024 n=128 tiempo=395.94 ms checksum=52.223927
+N=2048 n=2048 tiempo=2458.56 ms checksum=172.331627
+N=2048 n=128 tiempo=3168.39 ms checksum=172.331627
+N=4096 n=4096 tiempo=19514.26 ms checksum=125.903028
+N=4096 n=128 tiempo=25596.40 ms checksum=125.903028

@@ -12,6 +12,7 @@ Multiplicación de matrices C = A·B con OpenMP y Numba.
 | (g) | `correr.py` en otro computador | `graficos.py` compara ambos computadores |
 
 Los resultados de (a)–(c) están en `Resultados.md`.
+Las salidas ya medidas de todos los programas (texto, CSV, tablas y figuras) están en `salidas/`, para quien no pueda compilar.
 
 ## Requisitos
 - Linux/WSL: `g++` con OpenMP. En macOS: `brew install libomp`.
