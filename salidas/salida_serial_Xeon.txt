@@ -1,0 +1,30 @@
+# ./serial N n en Xeon. Item (a): N=2048, una linea por repeticion
+N=2048 n=2048 tiempo=2623.85 ms checksum=172.331627
+N=2048 n=2048 tiempo=2754.38 ms checksum=172.331627
+N=2048 n=2048 tiempo=2602.02 ms checksum=172.331627
+N=2048 n=1024 tiempo=2814.34 ms checksum=172.331627
+N=2048 n=1024 tiempo=2832.51 ms checksum=172.331627
+N=2048 n=1024 tiempo=2761.83 ms checksum=172.331627
+N=2048 n=512 tiempo=2811.50 ms checksum=172.331627
+N=2048 n=512 tiempo=2849.22 ms checksum=172.331627
+N=2048 n=512 tiempo=2851.95 ms checksum=172.331627
+N=2048 n=256 tiempo=3224.26 ms checksum=172.331627
+N=2048 n=256 tiempo=3232.86 ms checksum=172.331627
+N=2048 n=256 tiempo=3305.47 ms checksum=172.331627
+N=2048 n=128 tiempo=2104.76 ms checksum=172.331627
+N=2048 n=128 tiempo=2167.83 ms checksum=172.331627
+N=2048 n=128 tiempo=2127.61 ms checksum=172.331627
+N=2048 n=64 tiempo=2353.45 ms checksum=172.331627
+N=2048 n=64 tiempo=2305.29 ms checksum=172.331627
+N=2048 n=64 tiempo=2327.45 ms checksum=172.331627
+N=2048 n=32 tiempo=2919.74 ms checksum=172.331627
+N=2048 n=32 tiempo=2914.89 ms checksum=172.331627
+N=2048 n=32 tiempo=2938.52 ms checksum=172.331627
+
+# Referencias de correr.py (n = N y n = 128)
+N=1024 n=1024 tiempo=329.98 ms checksum=52.223927
+N=1024 n=128 tiempo=271.88 ms checksum=52.223927
+N=2048 n=2048 tiempo=2614.77 ms checksum=172.331627
+N=2048 n=128 tiempo=2078.20 ms checksum=172.331627
+N=4096 n=4096 tiempo=28729.27 ms checksum=125.903028
+N=4096 n=128 tiempo=29939.93 ms checksum=125.903028
